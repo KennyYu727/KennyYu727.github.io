@@ -9,7 +9,7 @@ keywords: Business Process Prediction, Deep Learning, Event Log
 
 profile:
   align: right
-  image: kenny-yu-img.jpg
+  image: zhipenghe-photo.jpg
   address: >
     <p>Level 7, Y Block</p>
     <p>QUT Gardens Point</p>

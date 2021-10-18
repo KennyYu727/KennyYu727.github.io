@@ -12,5 +12,4 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'jekyll-redirect-from'
-    gem 'kramdown-parser-gfm'
 end
