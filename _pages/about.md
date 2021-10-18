@@ -9,7 +9,7 @@ keywords: Business Process Prediction, Deep Learning, Event Log
 
 profile:
   align: right
-  image: zhipenghe-photo.jpg
+  image: kenny-yu-img.jpg
   address: >
     <p>Level 7, Y Block</p>
     <p>QUT Gardens Point</p>
@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Computer Science and Software Developing and training in Process Mining. Self-motivated and exceptionally reliable Honours student positioned to contribute strongly to Predictive Process Analytics and Deep Learning approaches.
 
-## education
+## Education
 
 * Queensland University of Technology, Australia
   * BInfTech Honours, 2021 (Expect)
@@ -31,7 +31,7 @@ Eager to contribute to team success through challenging work, attention to detai
 * Jinling Institute of Technology, China
   * B.E. in Software Engineering, 2016 - 2019
 
-## honors & awards
+## Honors & Awards
 
 * 2021 QUT International Merit Scholarship
 * 2020 QUT Vacation Research Experience Scheme (VRES) Scholarship
