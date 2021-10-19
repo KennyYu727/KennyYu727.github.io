@@ -30,9 +30,17 @@
 - title: Professional Experience
   type: table
   contents:
+  - title: 'Sessional Tutor - Web Application'
+    year: 06. 2020 – <br/> Now
+    location: Queensland University of Technology - Brisbane City, QLD
+    description:
+      - Delivering tutorials and helping students in finding useful study methods to enhance academic performance. Learning outcome of the Unit
+      - Demonstrate approaches for producing Web application design in support of requirements, at a sufficient level of detail for use in the software development process.
+      - Specify and validate Web forms and databases, using platform tools, which will be used when developing the program code of Web applications.
+      - Develop, test and deploy program code of Web applications using both a programming language and platform tools.
+      - Create APIs and use APIs of existing applications to develop and test program code for Web application integration.
+      - Apply written communication skills to reflect upon personal performance, and the performance of others. Employ teamwork skills and processes to participate collaboratively and operate within a schedule to produce deliverables.'  
   - title: 'Application Support Specialist'  
-
-
     year: 03. 2020 – <br/> 03. 2021
     location: Sonic Healthcare - Brisbane, Queensland
     description:
@@ -43,7 +51,6 @@
       - Perform quality assurance testing of new software releases
       - Provide regular detailed reports to the Application Services Manager regarding known issues with applications
   - title: 'Software Engineer'
-
     year: 11. 2018 – <br/> 10. 2019
     location: Products for Industry PtyLtd (PFI) - Darra, Queensland
     description:
@@ -79,7 +86,7 @@
   - title: 'Programming Skills:'
     description:
       - 'Python programming for data mining'
-      - 'Web application development using Spring in Java and Django in Python'
+      - 'Web application development using Spring in Flask in Python'
       - 'Shell scripting on UNIX-like systems'
   
   - title: 'Data Science Skills:'
