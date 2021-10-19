@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-  <b><em>Honours student</em> </b><br>
+  <b><em>PhD student</em> </b><br>
   School of Information Systems, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
-keywords: Business Process Prediction, Deep Learning, Event Log
+keywords: Machine Learning, Deep Learning, Web Development
 
 profile:
   align: right
@@ -17,22 +17,25 @@ profile:
 
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Eager to contribute to team success through challenging work, attention to detail and excellent organizational skills. Clear understanding of Computer Science and Software Developing and training in Process Mining. Self-motivated and exceptionally reliable Honours student positioned to contribute strongly to Predictive Process Analytics and Deep Learning approaches.
+An organised individual, who is detail orientated and has 1-year experience in the Finance industry and 1-year experience in the Ecommerce business.
+
+Seeking opportunities to provide knowledge and skills in Computer Science / Data Science. Obtained a Master of Information Technology in Queensland University of Technology. 
 
 ## Education
 
 * Queensland University of Technology, Australia
-  * BInfTech Honours, 2021 (Expect)
-  * BInfTech in Information System, 2020
-* Jinling Institute of Technology, China
-  * B.E. in Software Engineering, 2016 - 2019
+  * PhD, 2024 (Expect)
+* Queensland University of Technology, Australia
+  * Master of Information Technology, 2017 - 2018
 
 ## Honors & Awards
 
-* 2021 QUT International Merit Scholarship
-* 2020 QUT Vacation Research Experience Scheme (VRES) Scholarship
-* 2020 QUT International Merit Scholarship
+* 2021 QUT PhD Scholarship
+* 2017 Dean's List Award - Semester 1 - Science and Engineering
+* 2017 Dean's List Award - Semester 2 - Science and Engineering
+* 2018 Dean's List Award - Semester 1 - Science and Engineering
+* 2018 Dean's List Award - Semester 2 - Science and Engineering
