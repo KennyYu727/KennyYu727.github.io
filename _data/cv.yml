@@ -2,120 +2,54 @@
   type: map
   contents:
   - name: Full Name
-    value: "HE, Zhipeng"
-  - name: Chinese Name
-    value: 何志鹏
+    value: "Yu, Kenny"
   - name: Preferred Name
-    value: Zippo
+    value: Kenny
   - name: Contact
-    value: zhipenghe [at] connect [dot] qut [dot] edu [dot] au
+    value: kenny727yp [at] gmail [dot] com
   - name: Languages
     value: Mandarin Chinese (native), English (fluent)
 
 - title: Research Areas
   type: list
   contents:
-    - Predictive Process Analytics
+    - Explanable AI - XAI
     - Machine Learning & Deep Learning
+
 - title: Education
   type: table
   contents:
-  - title: Bachelor of Information Technology (Honours)
-    year: Feb. 2021 – <br/> Now
+  - title: Master of Information Technology
+    year: Feb. 2017 – <br/> 2018
     location: School of Information Systems<br/> Queensland University of Technology, Australia
     description:
-    - 'Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>'
-    - 'Recently achieved 6.7 out of 7 GPA'
-    - 'Awarded QUT International Merit Scholarship'
-  - title: Bachelor of Information Technology (Information Systems)
-    year: Feb. – Nov.<br/> 2020
-    location: Queensland University of Technology, Australia
-    description:
-    - 'JIT-QUT Joint Bachelor of IT Program'
-    - 'Graduated with 6 out of 7 GPA'
+    - 'Achieved 6.75 out of 7 GPA'
     - 'Awarded QUT International Merit Scholarship'
 
-  - title: Bachelor of Engineering (Software Engineering)
-    year: Sept. 2016 – <br/> Nov. 2020
-    location: Jinling Institute of Technology, China
-    description:
-    - 'JIT--QUT Joint Bachelor of IT Program'
-    - 'Graduated with 87% Weighted Average Mark'
-
-- title: Honors and Awards
-  type: table
-  contents:
-  - title: QUT International Merit Scholarship
-    year: 2021
-    description:
-    - Awarded for the academic excellence in Bachelor of Information Technology (Information Systems) at QUT
-    - Offered 25% of tuition fees discount for Bachelor of Information Technology (Honours) at QUT
-  - title: QUT Vacation Research Experience Scheme (VRES) Scholarship
-    year: 2020
-    description: 
-    - Awarded for the achievements and recognised suitability for conducting and managing a research project successfully to completion during the study of Bachelor of Information Technology (Information Systems) at QUT
-    - Offered a VRES scholarship with a stipend of $2,000 to contribute to a research project
-  - title: QUT International Merit Scholarship
-    year: 2020
-    description: 
-    - Awarded for the academic excellence in Bachelor of Engineering (Software Engineering) at JIT
-    - Offered 25% of tuition fees discount for Bachelor of Information Technology (Information Systems) at QUT
-   
-- title: Academic Experience
-  type: table
-  contents:
-  - title: 'Honours Research Project'
-    year: Feb. 2021 – <br/> Now
-    location: School of Information Systems<br/> Queensland University of Technology, Australia
-    description:
-    - "Title: Investigating the Impact of Event Logs on Deep Learning-based Process Prediction Performance"
-    - 'Co-advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a> and <a href="https://staff.qut.edu.au/staff/catarina.pintomoreira" target="_blank"><b>Dr. Catarina Moreira</b></a>'
-    - "Focusing on investigating and analysing the potential influence of specific characteristics of event logs when predicting next business process activity using deep learning techniques <br/>
-    <ul>
-      <li>Studying and identifying key characteristics of event logs</li>
-      <li>Analysing the effects of event log characteristics on predicting next processactivity based on LSTM and Transformer</li>
-    </ul>"
-    - 'Presenting the research findings and outcome in two scientific papers <br/> 
-    <ul>
-    <li>Paper 1: Submitted to Knowledge-Based Systems for review and the preprint version is available on <a href="https://arxiv.org/abs/2109.01419" target="_blank"><b>arXiv</b></a></li>
-    <li>Paper 2: Planned for submission to IEEE Access (SJR Q1 Journal)</li>
-    </ul>'
-  - title: '2021 AMSI Winter School Academic Training'
-    year: July 2021
-    location: Centre for Data Science<br/> Queensland University of Technology, Australia
-    description:
-    - 'Attended lectures and tutorials of advanced statistical learning knowledge such as Bayesian Statistics and Markov chain Monte Carlo related methods'
-    - 'Gained knowledge of generative deep learning models'
-    - 'Presented a <a href="https://slides.zhipenghe.me/old-slides/2021-07-AMSI.pdf" target="_blank"><b>participant talk</b></a> titled <em>Deep Learning-based Business Process Prediction</em> during the winter school'
-  - title: 'VRES Research Project'
-    year: Nov. 2020 – <br/> Feb. 2021
-    location: School of Information Systems<br/> Queensland University of Technology, Australia
-    description:
-    - 'Title: Towards Design and Development of Interactive Visualisation for Organisational Analytics'
-    - 'Advised by <a href="https://staff.qut.edu.au/staff/c.ouyang" target="_blank"><b>Dr. Chun Ouyang</b></a>'
-    - 'Aimed to address how to visualise organisational analytics results as informed by existing visual analytics design principles'
-    - 'Proposed an organisational mining visualisation design workflow for selecting appropriate visualisation techniques to generate organisational mining visualisation'
-    - 'A <a href="https://slides.zhipenghe.me/old-slides/2021-02-VRES.pdf" target="_blank"><b>project showcase</b></a> was presented to all the VRES students and supervisors from School of Computer Science and School of Information Systems.'
-  
-  note: '<b>Note:</b> for further details on my academic experience, please see the <a href="/old-slides/2021-07-AMSI.pdf" target="_blank"><b>PDF</b></a> version.'
 
 - title: Professional Experience
   type: table
   contents:
-  - title: 'Business Analyst Intern'
-    year: Mar. – Oct. <br/>2020
-    location: Suncorp Group, Australia
-    description:
-      - Coordinated with a team to integrate the enterprise architectural systems within the insurance department.
-      - Gathered business requirements and improving data models and reporting frameworks to improve efficiency.
-  - title: 'Java Web Developer Intern'
-    year: July – Oct. <br/> 2019
-    location: Yizhi Software Technology Co., Ltd, China
-    description:
-    - 'Project experience with Java web development frameworks -- Spring'
-    - 'Project experience with database modelling and implementation of application backend'
-    - 'Performs system analysis and system design functions for highly difficult web-based software applications and systems'
+  - title: 'Application Support Specialist'  
 
+
+    year: 03. 2020 – <br/> 03. 2021
+    location: Sonic Healthcare - Brisbane, Queensland
+    description:
+      - Maintain solutions and resources and ensure sufficient reliable maintenance and monitoring to ensure that all systems are available and operational on a 24 x 7 basis.
+      - Client liaison in respect to product development, maintenance and support; translate Client needs into solutions. Build and continuously improve the client relationships.
+      - Troubleshoot applications issues so problems root cause can be detected and resolved before they have a major impact to business process.
+      - Perform application upgrades and patches to production environments including business as usual supplementary database updates.
+      - Perform quality assurance testing of new software releases
+      - Provide regular detailed reports to the Application Services Manager regarding known issues with applications
+  - title: 'Software Engineer'
+
+    year: 11. 2018 – <br/> 10. 2019
+    location: Products for Industry PtyLtd (PFI) - Darra, Queensland
+    description:
+    - Introduced automation tools, including internal software to reduce redundancy and enhance workflow. Worked with engineering team to 3rd-Party API to create add-ins in Inventor and Autodesk Vault.
+    - Identified issues in ERP system and implemented optimisation techniques, which resulted in increasing in productivity.
+    - Design and implement relational database to store industrial data.
 # - title: Teaching Experience
 #   type: table
 #   contents:
@@ -151,11 +85,16 @@
   - title: 'Data Science Skills:'
     description:
       - Sound understanding of models in Statistical Learning, Machine Learning and Deep learning, and implementing them in Python and R
-      - Proficient in creating visualisation for data analytics using Programming Languages (e.g., JavaScript, JSON and Python) and Software (e.g., Tableau)
+      - Proficient in creating visualisation for data analytics using Programming Languages (e.g., JSON and Python) and Software 
       - Proficient in handling multi-dimensional sequential data (e.g., event logs) for predictive analytics 
       - Excel in developing RNN-based deep learning models for Natural Language Processing and Business Process Prediction
       - Experience with SQL databases (e.g., SQL Server and PostgreSQL) and NoSQL databases (e.g., MongoDB) for data warehousing and data processing
       - Experience with Python libraries, e.g., Pandas and Scipy ecosystems, for data preprocessing and data profiling
+      - Conceptual model Data model, Wireframes Minimal Viable Product (Flask, HTML, Bootstrap)  
+      - Object Oriented Programming (VB.NET & C#) Database design and administration (MySQL & Microsoft SQL) Project Management (Agile)
+
+
+
 
 # - title: Technical Projects
 #   type: table
